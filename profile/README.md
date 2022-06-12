@@ -1,4 +1,5 @@
 # Introduction
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 # Repository
 - [Machine Learning Repository](https://github.com/SelidikPasar/Selasar-MachineLearning)
