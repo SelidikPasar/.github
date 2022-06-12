@@ -1,28 +1,20 @@
 # Introduction
-https://user-images.githubusercontent.com/66265368/173214670-a1511ac5-34d2-4fa7-a571-c1ba5ee14a0e.mp4
-
-NanamYuk is an gardening management and plant recommendation Android Application. Proudly developed by Bangkit Product Capstone C22-PS316 Team.
+Selasar is an gardening management and plant recommendation Android Application. Proudly developed by Bangkit Product Capstone C22-PS316 Team.
 
 # Repository
-- [Android Application Repository](https://github.com/NanamYuk/NanamYuk-Android)
-- [Machine Learning Model Repository](https://github.com/NanamYuk/NanamYuk-ML)
-- [Cloud Computing Backend API Repository](https://github.com/NanamYuk/backend)
+- [Machine Learning Model Repository](https://github.com/SelidikPasar/Selasar-MachineLearning)
+- [Android Application Repository](https://github.com/SelidikPasar/Selasar-AndroidDevelopment)
+- [Cloud Computing Backend API Repository](https://github.com/SelidikPasar/Selasar-CloudComputing)
 
 # Team Member
 
 |            Member           | Student ID |        Path        |                                                   
 | :-------------------------: | :--------: | :----------------: | 
-|M. Syah Zichrullah Habibie   | M2322F2811 |  Machine Learning  | 
-|      Naufaldi Hafidigbal     | M2224W2072 |  Machine Learning  |
-|     Muhammad Irfan    | A2322F2812| Mobile Development |
-|    M. Rifki Aufa     | A2322F2812 | Mobile Development |
-|Ahmad Solahudin Rifandi    | C2224W2082 |   Cloud Computing  |             
-| Refin Refiansyah Maldini | C7237F2141 |   Cloud Computing  |
+| M. Aji Prasetyo | M7006F0477 |  Machine Learning  | 
+|      Evans Hebert     | M2010F1112 |  Machine Learning  |
+|     Fachridan Tio Mu'afa   | A2224W2061 | Mobile Development |
+|    Pradipta Rakahartyanto     | A2008F0812 | Mobile Development |
+|Omar Yazidz Djuandi    | C2224W2080 |   Cloud Computing  |             
+| Putri Kamila | C7011F1192 |   Cloud Computing  |
 
-# Try NanamYuk!
-### [NanamYuk! APK](https://storage.googleapis.com/nanamyuk-bucket/NanamYuk.apk)
-> Please enable "[Install from Unknown Source](https://www.maketecheasier.com/install-apps-from-unknown-sources-android/)" on your Android Phone
 
-# Project Architecture
-
-![Architecture](https://user-images.githubusercontent.com/63545373/173236177-067c868b-75bb-4dc3-9e2f-618929de0204.jpg)
