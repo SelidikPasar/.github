@@ -2,7 +2,7 @@
 
 # Repository
 - [Machine Learning Repository](https://github.com/SelidikPasar/Selasar-MachineLearning)
-- [Android Repository](https://github.com/SelidikPasar/Selasar-AndroidDevelopment)
+- [Mobile Development Repository](https://github.com/SelidikPasar/Selasar-AndroidDevelopment)
 - [Cloud Computing Repository](https://github.com/SelidikPasar/Selasar-CloudComputing)
 
 # Team Member
