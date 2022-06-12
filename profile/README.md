@@ -1,5 +1,5 @@
 # Introduction
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Selidik Pasar](https://i.postimg.cc/k48bgkyM/Selasar-Logo-Fix.png)
 
 # Repository
 - [Machine Learning Repository](https://github.com/SelidikPasar/Selasar-MachineLearning)
