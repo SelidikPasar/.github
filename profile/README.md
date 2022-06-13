@@ -22,4 +22,4 @@
 ![Selidik Pasar](https://i.postimg.cc/c1gkGmtF/cloudmechanism1.jpg)
 
 ## Installation
-Download and install beta app [here]([https://github.com/SelidikPasar/Selasar-AndroidDevelopment/releases/download/beta-release-v1/selasar.apk])
+Download and install beta app [here](https://github.com/SelidikPasar/Selasar-AndroidDevelopment/releases/download/beta-release-v1/selasar.apk)
