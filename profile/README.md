@@ -19,4 +19,4 @@
 
 
 # Application Architecture
-![Selidik Pasar]([https://i.postimg.cc/jqD72nZ3/C22-PS225-Selidik-Pasar.png](https://i.postimg.cc/c1gkGmtF/cloudmechanism1.jpg))
+![Selidik Pasar](https://i.postimg.cc/c1gkGmtF/cloudmechanism1.jpg)
