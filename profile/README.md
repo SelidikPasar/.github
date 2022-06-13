@@ -18,3 +18,5 @@
 | Putri Kamila | C7011F1192 |   Cloud Computing  |
 
 
+# Application Architecture
+![Selidik Pasar]([https://i.postimg.cc/jqD72nZ3/C22-PS225-Selidik-Pasar.png](https://i.postimg.cc/c1gkGmtF/cloudmechanism1.jpg))
