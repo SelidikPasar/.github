@@ -1,5 +1,5 @@
 # Introduction
-![Selidik Pasar](https://i.postimg.cc/jqD72nZ3/C22-PS225-Selidik-Pasar.png)
+![Selidik Pasar](https://i.postimg.cc/LsQDZGM0/C22-PS255-Selidik-Pasar-1.png)
 
 # Repository
 - [Machine Learning Repository](https://github.com/SelidikPasar/Selasar-MachineLearning)
