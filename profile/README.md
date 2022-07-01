@@ -6,7 +6,7 @@
 - [Mobile Development Repository](https://github.com/SelidikPasar/Selasar-AndroidDevelopment)
 - [Cloud Computing Repository](https://github.com/SelidikPasar/Selasar-CloudComputing)
 
-# Team Member
+# Team Members
 
 |            Member           | Student ID |        Path        |                                                   
 | :-------------------------: | :--------: | :----------------: | 
@@ -17,9 +17,11 @@
 |Omar Yazidz Djuandi    | C2224W2080 |   Cloud Computing  |             
 | Putri Kamila | C7011F1192 |   Cloud Computing  |
 
-
 # Application Architecture
 ![Selidik Pasar](https://i.postimg.cc/c1gkGmtF/cloudmechanism1.jpg)
+
+## Screenshots
+![Selasar](https://raw.githubusercontent.com/SelidikPasar/Selasar-AndroidDevelopment/master/app/screenshots/Selidik-Pasar.png)
 
 ## Installation
 Download and install beta app [here](https://github.com/SelidikPasar/Selasar-AndroidDevelopment/releases/download/beta-release-v1/selasar.apk)
