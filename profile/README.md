@@ -20,7 +20,7 @@
 # Application Architecture
 ![Selidik Pasar](https://i.postimg.cc/c1gkGmtF/cloudmechanism1.jpg)
 
-## Screenshots
+## User Interface
 ![Selasar](https://raw.githubusercontent.com/SelidikPasar/Selasar-AndroidDevelopment/master/app/screenshots/Selidik-Pasar.png)
 
 ## Installation
